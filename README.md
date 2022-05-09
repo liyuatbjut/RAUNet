@@ -26,8 +26,8 @@ python main.py test --ckpt=weights_xx.pth
 '''
 ----
 
-## 数据准备
-项目文件分布如下
+## Data samples
+Data files include:
 '''
   --project
   	main.py
@@ -38,14 +38,14 @@ python main.py test --ckpt=weights_xx.pth
 部分公开数据集: OIA-DDR:https://github.com/nkicsl/DDR-dataset
                           Messidor：http://www.adcis.net/en/third-party/messidor
 
-## 模型训练
+## Model Training
 '''
 python main.py train
 
 '''
 
-## 测试模型训练
-加载权重
+## Model Testing
+Load the model weights
 '''
 python main.py test --ckpt=weights_xx.pth
 
