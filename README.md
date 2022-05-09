@@ -1,3 +1,10 @@
+# Important Notice
+This published code is usesed in paper: "Weakly supervised training for eye fundus lesion segmentation in patients with diabetic retinopathy"
+It can be only used for non-commercial use such as scientific research and education. Please feel free to contact with us if there is any problem at yuli/at/bjut.edu.cn
+Do not forget to reference our paper in your publication by:
+Yi Li, Meilong Zhu, Guangmin Sun et al., Weakly supervised training for eye fundus lesion segmentation in patients with diabetic retinopathy, Math. Biosci. Eng.
+,2022, Mar 24;19(5):5293-5311. doi: 10.3934/mbe.2022248.
+Thank you for your interest :)
 
 # RAUNet 
 RAUNet network for fundus image segmentation
