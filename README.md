@@ -1,3 +1,4 @@
+
 # RAUNet 
 RAUNet network for fundus image segmentation
 ## data preparation
@@ -8,7 +9,7 @@ structure of project
   	 --data
    		--train
    		--val
-'''
+
 partially open dataset：OIA-DDR:https://github.com/nkicsl/DDR-dataset
                                        Messidor：http://www.adcis.net/en/third-party/messidor
 
@@ -16,14 +17,14 @@ partially open dataset：OIA-DDR:https://github.com/nkicsl/DDR-dataset
 '''
 python main.py train
 
-'''
+
 
 ## testing
 load the weight
-'''
+
 python main.py test --ckpt=weights_xx.pth
 
-'''
+
 ----
 
 ## Data samples
@@ -34,19 +35,18 @@ Data files include:
   	 --data
    		--train
    		--val
-'''
-部分公开数据集: OIA-DDR:https://github.com/nkicsl/DDR-dataset
+      
+partially open dataset: OIA-DDR:https://github.com/nkicsl/DDR-dataset
                           Messidor：http://www.adcis.net/en/third-party/messidor
 
 ## Model Training
 '''
 python main.py train
 
-'''
 
 ## Model Testing
 Load the model weights
 '''
 python main.py test --ckpt=weights_xx.pth
 
-'''
+
