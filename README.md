@@ -9,6 +9,10 @@ Yi Li, Meilong Zhu, Guangmin Sun et al., Weakly supervised training for eye fund
 
 Thank you for your interest :)
 
+Lab of Nerual Networks and Image Recognition
+Beijing University of Technology
+Contact: yuli@bjut.edu.cn
+
 # RAUNet 
 RAUNet network for fundus image segmentation
 ## data preparation
